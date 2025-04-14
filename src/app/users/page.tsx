@@ -3,8 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      HI
-      
+      <h1>Users page</h1>
     </div>
   )
 }
